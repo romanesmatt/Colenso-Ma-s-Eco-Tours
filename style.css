@@ -1,0 +1,161 @@
+/* This is your CSS file. You will use this file to style your HTML pages */
+
+body{
+    background-color: #A7D930;
+}
+
+h1{
+    font-size: 30px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    
+}
+
+h2{
+    color: white;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+
+h3{
+    color: white;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+    
+}
+
+h4{
+    color: white;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+}
+
+
+p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+footer{
+    background-color: #28430A;
+    padding: 20px;
+    
+}
+
+/* Navigation bar */
+
+
+#navigation {
+    list-style-type: none;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    background-color: #28430A;
+    overflow: hidden;
+}
+
+
+#navigation li {
+    float: left;
+    margin-left: 250px;
+}
+
+#navigation a {
+    display: block;
+    width: 90px;
+    color: white;
+    text-decoration: none;
+    padding; 14px 26px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    
+}
+
+#navigation a:link {
+    color: white;
+    margin-left: 143px;
+    
+}
+
+#navigation a:active {
+    color: blue;
+    
+}
+
+#navigation a:hover {
+    color: #ffff00;
+}
+
+#navigation a:active {
+    color: green;
+    
+}
+
+#logo{
+    font-size: 50px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+#wellington{
+    width: 100%;
+}
+
+li{
+    color: white;
+    font-size: 19px;
+    font-family: 'Oxygen', sans-serif;
+    margin-left: 20px;
+}
+
+#contactsbox{
+    background-color: #7B4425;
+}
+
+/* Contacts info */
+
+#coninfo{
+    margin-left: 20px;
+}
+
+#bookingsbox{
+    background-color: #507B00;
+}
+
+label{
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    margin-left: 5px;
+}
+
+form{
+    margin-left: 20px;
+}
+
+#note{
+    margin-left: 20px;
+}
+
+select{
+    margin-left: 20px;
+}
+
+textarea{
+    margin-left: 20px;
+}
+
+button {
+    margin-left: 20px;
+}
